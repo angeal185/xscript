@@ -108,7 +108,7 @@ document.body.append(item)
 ```js
 // create an element with multiple attributes
 
-x('input', {
+let item = x('input', {
   id: 'testid',
   class: 'class1 class2 class3',
   type: 'text',
@@ -116,7 +116,7 @@ x('input', {
   style: 'color:red;background:black'
 })
 
-console.log(x)
+console.log(item)
 // <input id="testid" class="class1 class2 class3" type="text" style="color:red;background:black" placeholder="example attributes">
 
 ```
@@ -192,7 +192,7 @@ document.body.append(item);
 # nested text nodes
 ```js
 
-let x('p',
+let items = x('p',
   'prepended text',
   x('p', 'basic 1', 'basic 2', () => 'basic 3'),
   'nested text',
