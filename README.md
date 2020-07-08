@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/65vyQdXC/xscript.png)
+![](https://i.postimg.cc/yxScBtjZ/xscriptsm.png)
 
 The as close as it gets to vanilla js speed template engine
 
