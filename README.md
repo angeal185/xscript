@@ -135,9 +135,11 @@ let item = x('p', {
   }
 })
 
-console.log(item.click())
+document.body.append(item);
+
+item.click()
 // item clicked!
-console.log(item.onmouseover());
+item.onmouseover()
 // item mouseover!
 ```
 
