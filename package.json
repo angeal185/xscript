@@ -1,7 +1,7 @@
 {
   "name": "xscript",
   "version": "1.0.0",
-  "description": "The fastest js template engine",
+  "description": "The as close as it gets to vanilla js speed template engine",
   "main": "lib/index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
