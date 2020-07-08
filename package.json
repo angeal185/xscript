@@ -1,0 +1,22 @@
+{
+  "name": "xscript",
+  "version": "1.0.0",
+  "description": "The fastest js template engine",
+  "main": "lib/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeal185/xscript.git"
+  },
+  "keywords": [
+    "javascript", "template-engine", "browser", "minimal", "templating"
+  ],
+  "author": "ben eaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeal185/xscript/issues"
+  },
+  "homepage": "https://github.com/angeal185/xscript#readme"
+}
