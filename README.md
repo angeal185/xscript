@@ -1,7 +1,6 @@
-# xscript
+![](https://i.postimg.cc/65vyQdXC/xscript.png)
 
 The as close as it gets to vanilla js speed template engine
-
 
 ![cd-img] ![dep-img] ![sz-img]
 
